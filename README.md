@@ -2,7 +2,7 @@
 
 A sleek and interactive web-based tool to pick colors and retrieve their hexadecimal values. Perfect for designers and developers!
 
-![Color Picker Preview](https://gulzaralice1.github.io/color-picker/assets/screenshot.png) <!-- Replace with the actual path to the screenshot -->
+![Color Picker Preview](SS.png) <!-- Replace with the actual path to the screenshot -->
 
 ## 🌐 Demo
 
